@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 --->
  <div>
   <a href="https://github.com/rydom">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rydom&show_icons=true&theme=radical&langs_count=8&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rydom&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rydom&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rydom&layout=compact&theme=radical&langs_count=6"/>
 </div>
  
