@@ -5,7 +5,7 @@
 
 :house_with_garden: Sou de Salvador-BA.
 
-:books: Atualmente estou aprendendo Testes Automatizados em aplicações web (TDD)
+:books: Atualmente estou aprendendo Testes Automatizados em aplicações web e TDD
 
 <!-- - 👋 Hi, I’m @Rydom
 - 👀 I’m interested in ...
